@@ -40,26 +40,22 @@
   
   
   <em> *Italics* </em>
-  <strong> **Bold** </stong>
+  <strong> **Bold** </strong>
    
 
 ### Numbered Lists
 
-  '1. text'
-  
-  '2. text'
-  
-  '3. text'
+  1. text
+  2. text
+  3. text
+
 
 ### Unordered lists
 
-  <html>
-  * text<br>
+  * text
+  * text
+  * text
   
-  * text<br>
-  
-  * text</br>
-  </html>
 
 *(Unordered lists can also use the '+' and '-' symbol)*
 
