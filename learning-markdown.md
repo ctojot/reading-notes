@@ -7,11 +7,49 @@
 - When creating markdown-formatted file, you use markdown sytanx to indicate which words or phrases should look different
 - For Example
 
-  '#' for Headings
+### Headings
 
-  '*' for Italics
+  Headings use the '#' Symbol. The are 6 different ones, with 1 being the largest and 6 being the smallest.
+  
+  H1 '# Heading'
+  
+  H2 '## Heading'
+  
+  H3 '### Heading'
+  
+  H4 '#### Heading'
+  
+  H5 '##### Heading'
+  
+  H6 '###### Heading'
+  
 
-  '-' or '+' for Unordered Lists
+### Italics and Bold
+
+  Both italics and bold use the asterik symbol /*/. The only difference being, if you want to use italics you'd put one asterik before or phrase and one at the end, while bold will use two in the beginning and two at the end. 
+  
+  <html>
+  <em> *Italics* </em><br>
+  <strong> **Bold** </stong>
+  </html>
+
+### Numbered Lists
+
+  '1. text'
+  
+  '2. text'
+  
+  '3. text'
+
+### Unordered lists
+
+  '* text'
+  
+  '* text'
+  
+  '* text'
+
+*(Unordered lists can also use the '+' and '-' symbol)*
 
 - Markdown formatting elements can be added to plaintext files using text editor applications
 - Accroding to John Gruber:
