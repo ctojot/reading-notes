@@ -1,40 +1,72 @@
 # My Reading Journal
 
-Reading journal for Code Fellows
+Reading Journal for Code Fellows
 
-## Table of Contents
+### Table of Contents
 
-### [Class 1: Learning Markdown](ctojot.github.io/reading-notes/c1)
+## Code 102: Intro to *Software Development*
 
-1. What is Markdown?
-2. Why Use Markdown?
+### [Learning Markdown](ctojot.github.io/reading-notes/c1)
 
-### [Class 2: The Coder's Computer](ctojot.github.io/reading-notes/c2)
+    - What is Markdown?
+    - Why Use Markdown?
 
-1. Choosing a Text Editor
-2. The Command Line
-3. Basic Navigation
-4. About Files
+### [The Coder's Computer](ctojot.github.io/reading-notes/c2)
 
-### [Class 3: Revisions and the Cloud](ctojot.github.io/reading-notes/c3)
+    - Choosing a Text Editor
+    - The Command Line
+    - Basic Navigation
+    - About Files
 
-1. Git Intro
-2. Seeing Your Remote
+### [Revisions and the Clous](ctojot.github.io/reading-notes/c3)
 
-### [Class 4: Structure Web Pages with HTML](ctojot.github.io/reading-notes/c4)
+    - Git Intro
+    - Seeing Your Remote
 
-1. Wireframe and Design
-2. Mozilla HTML Basics
-3. Semantics
-4. Mozilla HTML Docs
-5. Mozilla HTML Elemenets
+### [Structure Web Pages with HTML](ctojot.github.io/reading-notes/c4)
 
-### [Class 5: Design Web Pagers with CSS](ctojot.github.io/reading-notes/c5)
+    - Wireframe and Design
+    - Mozilla HTML Basics
+    - Semantics
+    - Mozilla HTML Docs
+    - Mozilla HTML Elements
 
-1. What is CSS
-2. How to Add CSS
-3. CSS Color
-4. CSS Reference
-5. Myers Web Reset Stylesheet
+### [Design Web Pages with CSS](ctojot.github.io/reading-notes/c5)
+
+    - What is CSS
+    - How to Add CSS
+    - CSS Color
+    - CSS Reference
+    - Myers Web Reset Stylesheet
+
+### [Dyanmic Web Pages with Javascript](ctojot.github.io/reading-notes/c6)
+
+    - JavaScript Intro Paragraph
+    - Variables
+
+### [Programming with JavaScript](ctojot.github.io/reading-notes/c7)
+
+    - Control Flow
+    - JavaScript Functinons
+    - JavaScript Operators
+
+### [Operators and Loops](ctojot.github.io/reading-notes/c8)
+
+    - Expressions and Operators
+    - Loops and Iteration
+
+## Code 201: Foundations of *Software Development*
+
+### [Getting Started](ctojot.github.io/reading-notes/class-01)
+
+    - How the Web Works
+    - Website Design and Process
+    - JavaScript Basics
+    - Getting Started with HTML
+    - HTML Document Structure
+    - MetaData in HTML
+    - How to Start to Design a Website
+    - Semantics
+    - What is JavaScript
 
 [https://www.github.com/ctojot](https://www.github.com/ctojot)
