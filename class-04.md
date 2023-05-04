@@ -127,3 +127,4 @@ Fixed positioning
 Absolute positioning
     - positions an element relative to its nearest positioned ancestor
     - absolute positioned elements are removed from the normal flow and do not take up space in the document flow
+
