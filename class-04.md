@@ -47,7 +47,7 @@
   - Search engines use link text to index target files, so it is a good idea to include keywords in your link text to effectively describe what is being linked to
   - Visual readers skim over the page rather than reading every word, and their eyes will be drawn to page features that stand out, like links
 
-## Email Links 
+## Email Links
 
 - it's possible to create links or buttons that, when clicked, open a new outgoing email message rather than linking to a resource or page
 
