@@ -57,7 +57,7 @@ Reading Journal for Code Fellows
 
 ## Code 201: Foundations of *Software Development*
 
-### [Getting Started](ctojot.github.io/reading-notes/class-01)
+### [Class 1](ctojot.github.io/reading-notes/class-01)
 
     - How the Web Works
     - Website Design and Process
@@ -68,5 +68,22 @@ Reading Journal for Code Fellows
     - How to Start to Design a Website
     - Semantics
     - What is JavaScript
+
+### [Class 2]
+
+### [Class 3]
+
+### [Class 4]
+
+    - Creating A Hyper Link
+    - What is a HyperLink
+    - Anatomy of a Link
+    - A Quick Primer on URLs and Paths
+    - Link Best Practices
+    - Email Links
+    - CSS Layout: Normal Flow
+    - 
+
+### [Class 5]
 
 [https://www.github.com/ctojot](https://www.github.com/ctojot)
