@@ -50,5 +50,6 @@ This is a reading journal for my classes at Code Fellows.
 
 ## Code 401 - [Advanced *Software Development*](ctojot.github.io/reading-notes/401-1)
 
+- Practice in the Terminal
 - An Introduction to Node.js
 - TBD
