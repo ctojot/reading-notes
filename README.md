@@ -6,31 +6,31 @@ This is a reading journal for my classes at Code Fellows.
 
 ## Code 102 - [Intro to *Software Development*](ctojot.github.io/reading-notes/code-102/c1)
 
-- [Growth Mindset & Github Pages](ctojot.github.io/reading-notes/code-102/c1)
-- [The Coder's Computer](ctojot.github.io/reading-notes/code-102/c2)
-- [Git/Github](ctojot.github.io/reading-notes/code-102/c3)
-- [HTML](ctojot.github.io/reading-notes/code-102/c4)
-- [CSS](ctojot.github.io/reading-notes/code-102/c5)
-- [Javascript](ctojot.github.io/reading-notes/code-102/c6)
-- [Functions](ctojot.github.io/reading-notes/code-102/c7)
-- [Loops & Logic](ctojot.github.io/reading-notes/code-102/c8)
+- [Growth Mindset & Github Pages](/code-102/c1)
+- [The Coder's Computer](/code-102/c2)
+- [Git/Github](/code-102/c3)
+- [HTML](/code-102/c4)
+- [CSS](/code-102/c5)
+- [Javascript](/code-102/c6)
+- [Functions](/code-102/c7)
+- [Loops & Logic](/code-102/c8)
 - Career Coaching
 
 ## Code 201 - [Foundations of *Software Development*](ctojot.github.io/reading-notes/code-2-1/class-01)
 
-- [Intro to Development](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [JS Data Types, Operators, IF-ELSE Control Flow](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Arrays and Loops for days!](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Functions, CSS Positioning, and Pair Programming](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [CSS Styling for Images, Text, and Git Branching](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Object Literals and DOM Manipulation](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Constructors and HTML Tables](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [CSS Flexbox and Wireframing](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Events and Forms](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Debugging and more Array methods](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [CSS Grid and Goat Vote App](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Chart.js and 3rd Part Libraries](ctojot.github.io/reading-notes/code-2-1/class-01)
-- [Local Storage: Data Persistence](ctojot.github.io/reading-notes/code-2-1/class-01)
+- [Intro to Development](/code-201/class-01)
+- [JS Data Types, Operators, IF-ELSE Control Flow](/code-201/class-01)
+- [Arrays and Loops for days!](/code-201/class-01)
+- [Functions, CSS Positioning, and Pair Programming](/code-201/class-01)
+- [CSS Styling for Images, Text, and Git Branching](/code-201/class-01)
+- [Object Literals and DOM Manipulation](/code-201/class-01)
+- [Constructors and HTML Tables](/code-201/class-01)
+- [CSS Flexbox and Wireframing](/code-201/class-01)
+- [Events and Forms](/code-201/class-01)
+- [Debugging and more Array methods](/code-201/class-01)
+- [CSS Grid and Goat Vote App](/code-201/class-01)
+- [Chart.js and 3rd Part](/code-201/class-01)
+- [Local Storage: Data Persistence](/code-201/class-01)
 
 ## Code 301 - [Intermediate *Software Development*](ctojot.github.io/reading-notes/301-1)
 
@@ -50,7 +50,7 @@ This is a reading journal for my classes at Code Fellows.
 
 ## Code 401 - [Advanced *Software Development*](ctojot.github.io/reading-notes/401-1)
 
-- [Practice in the Terminal](ctojot.github.io/reading-notes/code-401/terminal)
-- [Growth Mindset](ctojot.github.io/reading-notes/code-401/growth-mindset)
+- [Practice in the Terminal](/code-401/terminal)
+- [Growth Mindset](/code-401/growth-mindset)
 - An Introduction to Node.js
 - TBD
