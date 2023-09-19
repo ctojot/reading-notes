@@ -52,5 +52,5 @@ This is a reading journal for my classes at Code Fellows.
 
 - [Practice in the Terminal](/code-401/terminal)
 - [Growth Mindset](/code-401/growth-mindset)
-- An Introduction to Node.js
+- Node Ecosystem
 - TBD
