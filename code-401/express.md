@@ -58,12 +58,23 @@ Team:
 
 ### What are three benefits of Continuous Integration?
 
-- 
-- 
-- 
+- It will improve your collaboration skills
+- You can find errors much earlier and easily traceable
+- Your coding will improve in quality because you are taking steps be consistent
 
 ### What is the difference between Continuos Delivery and Continuous Deployment?
 
-
+- Continuos devliery, deployment to production is done manually while with Continuous Deployment is fully automated
+- Continuous delivery ensures that the code is in a deployable state and will sit until the decision to deploy the production is manually made by a human. With Continuos deployment, once code changes are commited, the changes are pushed to prod enviornment as long as they pass all test.
 
 ### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
+
+Github is basically a filing cabinet for software development. You use it to store code. You can track any changes that happens to it. Work with a team member with whatever is inside. Github even assits with automated testing and also making sure all your code is working before you go live with it.
+
+## Things I want to know more about
+
+What I really want to know more about is how people were even creating software before Github was even created.
+
+## References
+
+ChatGPT
