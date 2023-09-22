@@ -54,3 +54,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Growth Mindset](/code-401/growth-mindset)
 - [Node Ecosystem](/code-401/node-ecosystem)
 - [Express, NPM, TDD, CI/CD](/code401/express)
+- [Data Modeling](/code401/data-modeling)
