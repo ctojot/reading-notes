@@ -55,3 +55,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Node Ecosystem](/code-401/node-ecosystem)
 - [Express, NPM, TDD, CI/CD](/code401/express)
 - [Data Modeling](/code401/data-modeling)
+- [Authentication](/code401/authentication)
