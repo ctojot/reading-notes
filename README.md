@@ -50,9 +50,10 @@ This is a reading journal for my classes at Code Fellows.
 
 ## Code 401 - [Advanced *Software Development*](ctojot.github.io/reading-notes/401-1)
 
-- [Practice in the Terminal](/code-401/terminal)
-- [Growth Mindset](/code-401/growth-mindset)
-- [Node Ecosystem](/code-401/node-ecosystem)
-- [Express, NPM, TDD, CI/CD](/code401/express)
-- [Data Modeling](/code401/data-modeling)
-- [Authentication](/code401/authentication)
+- [Practice in the Terminal](reading-notes/code-401/terminal)
+- [Growth Mindset](reading-notes/code-401/growth-mindset)
+- [Node Ecosystem](reading-notes/code-401/node-ecosystem)
+- [Express, NPM, TDD, CI/CD](reading-notes/code-401/express)
+- [Data Modeling](reading-notes/code-401/data-modeling)
+- [Authentication](reading-notes/code-401/authentication)
+- [Bearer Authorization](reading-notes/code-401/bearer-authentication)
