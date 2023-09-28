@@ -57,3 +57,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Data Modeling](/code-401/data-modeling)
 - [Authentication](/code-401/authentication)
 - [Bearer Authorization](/code-401/bearer-authentication)
+- [Access Control (ACL)](/code-401/access-control)
