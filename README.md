@@ -58,3 +58,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Authentication](/code-401/authentication)
 - [Bearer Authorization](/code-401/bearer-authentication)
 - [Access Control (ACL)](/code-401/access-control)
+- [Event Driven Applications](/code-401/event-driven-applications)
