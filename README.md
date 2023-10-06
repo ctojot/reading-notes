@@ -60,3 +60,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Access Control (ACL)](/code-401/access-control)
 - [Event Driven Applications](/code-401/event-driven-applications)
 - [Socket.io](/code-401/socketio)
+- [Event Driven Architecture](/code-401/event-driven-arch)
