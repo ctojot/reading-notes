@@ -63,3 +63,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Event Driven Architecture](/code-401/event-driven-arch)
 - [AWS: S3 and Lambda](/code-401/s3-lambda)
 - [AWS: API, Dynamo and Lambda](/code-401/api-dynamo-lambda.md)
+- [AWS: Events](/code-401/aws-events.md)
