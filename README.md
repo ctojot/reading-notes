@@ -66,3 +66,4 @@ This is a reading journal for my classes at Code Fellows.
 - [AWS: Events](/code-401/aws-events.md)
 - [Component Based UI](/code-401/component-based-ui.md)
 - [useState Hook](/code-401/usestate-hook.md)
+- [Component Lifecycle / useEffect Hook](/code-401/useeffect-hook.md)
