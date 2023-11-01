@@ -2,7 +2,7 @@
 
 ## Choosing the State Structure
 
-### Summarize the five principles for structuring state.
+### Summarize the five principles for structuring state
 
 - Group related state: Updating the state to a single state when you need to update 2 or more state variables at the same time.
 
