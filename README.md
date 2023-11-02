@@ -69,3 +69,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Component Lifecycle / useEffect Hook](/code-401/useeffect-hook.md)
 - [Context API](/code-401/context-api.md)
 - [Context API - Behaviors](/code-401/context-api-behaviors.md)
+- [Login and Auth](/code-401/login-and-auth.md)
