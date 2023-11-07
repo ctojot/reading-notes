@@ -71,3 +71,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Context API - Behaviors](/code-401/context-api-behaviors.md)
 - [Login and Auth](/code-401/login-and-auth.md)
 - [API Integration](/code-401/api-integration.md)
+- [Application State with Redux](/code-401/redux.md)
