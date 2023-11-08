@@ -72,3 +72,4 @@ This is a reading journal for my classes at Code Fellows.
 - [Login and Auth](/code-401/login-and-auth.md)
 - [API Integration](/code-401/api-integration.md)
 - [Application State with Redux](/code-401/redux.md)
+- [Redux - Asynchronous Actions](/code-401/async-actions.md)
